@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600;700;900&family=Square+Peg&display=swap');
+
+body {
+    font-family: 'Myriad Pro Regular';
+    font-size: 15px;
+    line-height: 25px;
+    font-weight: 400;
+    box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    
+}
+
+
+
+
+
+
+header{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+.appointment{
+    float:right;
+    margin-left: 30px;
+    margin-top: 20px;
+    
+}
+
+.appointment > a {
+    border-radius: 5px;
+    display: inline-block;
+    padding: 10px 35px;
+    background-color: #d6a354;
+    text-decoration:none;
+    
+
+}
+
+
+.main-manu ul li {
+    display: inline-block;
+    margin-left: 40px;
+    
+}
+
+.main-manu ul li a{
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    display:inline-block;
+    line-height: 1;
+    padding: 40px 0;
+    text-decoration:none;
+}
+ 
+
+
+
+.single-slider{
+    height: 100vh;
+
+
+}
+.slider-inner {
+    padding: 80px;
+    color: #ffffff;
+    margin-left: 145px;
+}
+.slider-inner span{
+    line-height: 1;
+    font-size: 110px;
+    font-weight: 600;
+    color: #ffffff;
+}
+.slider-inner p{
+    font-size: 18px;
+    font-weight: 400;
+    color:#fefefe;
+}
+
+.slider-inner a{
+    background-color: #d6a354;
+    width: 240px;
+    height: 50px;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.slider-icon img{
+    width: 60px;
+    height: 80px;
+    border-radius: 20px;
+    float: right;
+    display: inline-block;
+
+
+}
